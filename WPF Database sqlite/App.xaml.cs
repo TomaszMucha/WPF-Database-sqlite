@@ -6,10 +6,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPF_Database_sqlite
+namespace WpfApplication3
 {
     /// <summary>
-    /// Logika interakcji dla klasy App.xaml
+    /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {

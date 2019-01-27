@@ -32,7 +32,9 @@ namespace WpfApplication3
             DatabaseHelper.conn.Close();
             
         }
-            
+        
+        //
+
         internal void BaseLoaded(object sender, RoutedEventArgs e)
         {
             DatabaseHelper.conn.Open();
